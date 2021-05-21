@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">OpenChat</string>
+    <string name="app_name" translatable="false">OpenChat</string>
+    <string name="phone_label">Phone</string>
+    <string name="clear_phone_description">Clear phone number</string>
+    <string name="message_label">Pre-filled message</string>
+    <string name="clear_message_description">Clear pre-filled message</string>
+    <string name="share_link_button">SHARE LINK</string>
+    <string name="open_chat_button">OPEN CHAT</string>
+    <string name="card_title">Link</string>
 </resources>
