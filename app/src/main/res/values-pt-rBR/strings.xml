@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_label">Telefone</string>
+    <string name="clear_phone_description">Limpar número de telefone</string>
+    <string name="message_label">Mensagem pronta</string>
+    <string name="clear_message_description">Limpar mensagem pronta</string>
+    <string name="share_link_button">COMPARTILHAR</string>
+    <string name="open_chat_button">ABRIR</string>
+    <string name="card_title">Link</string>
+</resources>
